@@ -54,7 +54,10 @@ The dataset is intended for analysing recorded patient activities, event sequenc
 6. Project Status
 
 Day 1: Initial project documentation and repository setup.
-
+Day1: PowerBi Setup
+-import the careflow_event_log.csv.xlsx dataset into PowerBI.
+-Verfied the dataset table and columns.
+-Saved the PowerBI Project file as CareFlow_Clinical_Process_Mining.pbix.
 7. Disclaimer
 
 This project is for educational purposes. Event duration does not automatically represent a confirmed clinical delay. Findings will depend on the available dataset and analysis.
