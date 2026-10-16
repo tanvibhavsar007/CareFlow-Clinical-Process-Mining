@@ -1,5 +1,6 @@
 # CareFlow-Clinical-Process-Mining
 Healthcare Analytics Project Using PowerBI to analyse Patient Journeys,clinical workflows, and Potential delays.
+
 # Day 1 - Project Setup
 - Created the GitHub repository.
 - Added the project description.
@@ -61,3 +62,30 @@ Day1: PowerBi Setup
 7. Disclaimer
 
 This project is for educational purposes. Event duration does not automatically represent a confirmed clinical delay. Findings will depend on the available dataset and analysis.
+# Day 2 - KPI Cards and Slicers
+Today, I continued developing my CareFlow - Clinical Process Mining Dashboard using Power BI. I created KPI cards to display important Patient related metrices and added Slicers to make the Dashboard Interactive.
+Work Completed:
+-Created a Total Patient KPI Card.
+-Created an Average Patient Age KPI Card.
+-Created a Dishcharge Cases KPI Card.
+-Added an Activity Slicer to filter data by activity.
+-Added Triage Code Slicer to filter data by triage code.
+-Added a Patient Outcome Slicer to filter data by dishcharge outcome.
+-Organised the cards and slicer to improve dashboard usability.
+
+Learning :
+Learned How to create KPI cards, use slicers, and filter healthcare data interactively in PowerBI.
+
+# Day 3 - Charts and Data Visualization
+Today, I continued working on my CareFlow - Clinical Process Mining dashboard by Creating different charts to analyse patient demographics,activities triage codes, and dishcharge outcomes.
+Work Completed:
+-Created a Clustered Column Chart for Patient Age Distribution.
+-Created a Donut Chart for Gender Distribution of Patients.
+-Created a Line Chart to analyse Patient Flow Across Activity Sequence.
+-Created a Clustered Bar Chart for Patient Activity Distribution.
+-Created a Pie CHart for Triage Code Distribution.
+-Created a Clustered Column Chart to Analyse Cases by Disposition.
+-Arrenged the Visuals to make Patient data easier to understand and Compare.
+
+Learning :
+Learned how to use different Power BI charts to analyse patient data, identify patterns, and present healthcare workflow information visually. 
