@@ -1,6 +1,6 @@
 # CareFlow-Clinical-Process-Mining
 Healthcare Analytics Project Using PowerBI to analyse Patient Journeys,clinical workflows, and Potential delays.
-
+# Week 1:
 # Day 1 - Project Setup
 - Created the GitHub repository.
 - Added the project description.
@@ -89,3 +89,46 @@ Work Completed:
 
 Learning :
 Learned how to use different Power BI charts to analyse patient data, identify patterns, and present healthcare workflow information visually. 
+
+# Week 2:
+# Day 1: Streamlit Application Setup
+-Created the main app.py file.
+-set up the basic Streamlit Application.
+-Added the initial application structure.
+-successfully tested the application locally.
+# Day 2: Dashboard Navigation Setup
+-Added basic navigation tabs to the Streamlit application.
+-Created the initial Structure for different dashboard section.
+-prepared the application for further UI devlopment.
+# Day 3: Simulation Engine Setup
+-Created the simulation folder.
+-created the engine.py file.
+-added initial simulation engine code.
+-created the requirements.txt file for project dependencies.
+# Overall Status
+Basic application setup and initial simulation engine development completed.
+Further UI development and functionality are pending.
+
+# Week 3:
+# Day 1: Google BigQuery Setup and Exploration
+-Explored the Google cloud BigQuery.
+-Worked on Google Cloud Project setup.
+-Explored Google BigQuery console and its Features.
+-understood the dataset and table requirements 
+-explored BigQuery integration Possibilities.
+# Day 2: BigQuery to PowerBI Integration
+-connected to Google BigQuery through PowerBI.
+-Loaded the CareFlow DataSet from BigQuery to PowerBI.
+-Explored import and DirectQuery models.
+- Reviewed dataset columns and data types.
+- Explored data source credentials and authentication settings.
+# Day 3: Dashboard Integration and TroubleShooting
+-Worked on TroubleShooting the BigQuery Connection.
+-Reviewed authentication and Credential configuration.
+-Started Planning  PowerBI Dashboard Integration with the CareFlow Streamlit Application.
+-Reviewed the Existing Dashboard and its visuals
+Pending Task:
+-Resolve the connection/refresh issue.
+-integrate the powerBI dashboard into the CareFlow interface.
+-Test Dashboard functionality and data Updates.
+
