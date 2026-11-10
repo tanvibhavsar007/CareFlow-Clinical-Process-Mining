@@ -132,3 +132,33 @@ Pending Task:
 -integrate the powerBI dashboard into the CareFlow interface.
 -Test Dashboard functionality and data Updates.
 
+# Week 4
+# Day 1:Google BigQuery Project Setup 
+Work Completed -
+-Reviewed the CareFlow Dataset in Google BigQuery.
+-Checked the existing project, dataset and event log table.
+-Verified the availability of the careflow_event_log table.
+-Reviewed the dataset structure and Available columns.
+# Day 2: PowerBI and BigQuery Integration
+work Completed:
+-Worked on connecting the Existing PowerBI Dashboard to Google BigQuery.
+-Configured the BigQuery data Connection.
+-Select the careflow_dataset and careflow_event_log table.
+-successfully connected the Dashboard to Google BigQuery.
+Tools Used: Google BigQuery, Microsoft PowerBI 
+# Day 3: Dashboard Integration and Finalisation
+Work Completed :
+-Completed the Google BigQuery Integration with the existing PowerBI dashboard.
+-Reviewed the Dashboard Visuals and KPI Cards.
+-Prepared the final PowerBI dashboard File (.pbix).
+-Upload the PowerBI dashboard File to the CareFlow GitHub repository.
+-Added Google BigQuery project details to the project documentation.
+
+# Google BigQuery Details:
+-Project ID: careflow-clinical-project
+-Dataset: careflow_dataset
+-Table: carefloe_event_log
+# BigQuery Project Link:
+https://console.cloud.google.com/bigquery?project=careflow-clinical-project 
+Tools Used: Google BigQuery, Microsoft PowerBI,GitHub.
+
